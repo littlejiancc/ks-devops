@@ -380,6 +380,8 @@ github.com/linuxsuren/http-downloader v0.0.2-0.20201207132639-19888a6beaec/go.mo
 github.com/linuxsuren/http-downloader v0.0.6/go.mod h1:xxgh2OE7WGL9TwDE9L8Gh7Lqq9fFPuHbh5tofUitEfE=
 github.com/linuxsuren/http-downloader v0.0.29 h1:GJUoybR4SViarPfX2xipq0unUssiuB9qrSSoDDW1jao=
 github.com/linuxsuren/http-downloader v0.0.29/go.mod h1:bniEqpLyyydtCTDyjo3nco6LD2F90ruPH87fuqAznQg=
+github.com/littlejiancc/jenkins-client v0.0.0-20230706080757-d94867b4e41a h1:FjzyYjLka1yJ3lQOAHRuNNDHLbCr6yE8R9roQgDLaJg=
+github.com/littlejiancc/jenkins-client v0.0.0-20230706080757-d94867b4e41a/go.mod h1:T8M/g0p7jjx0NBwN6gNqsAAmT1P3B70GBBJJgsX9kLw=
 github.com/magiconair/properties v1.8.0/go.mod h1:PppfXfuXeibc/6YijjN8zIbojt8czPbwD3XqdrwzmxQ=
 github.com/magiconair/properties v1.8.1/go.mod h1:PppfXfuXeibc/6YijjN8zIbojt8czPbwD3XqdrwzmxQ=
 github.com/magiconair/properties v1.8.5 h1:b6kJs+EmPFMYGkow9GiUyCyOvIwYetYJ3fSaWak/Gls=
